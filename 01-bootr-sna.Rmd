@@ -19,6 +19,6 @@ This bootcamp aims to introduce dyanmic documentation in R and basics of social 
 - Personal Labtop
 
 ## Materials
-- R Source Code (https://chadchae.github.io/ws_ba_bootcamp_2021/products/snabootcamp.R)
-- Presentation (https://chadchae.github.io/ws_ba_bootcamp_2021/products/snabootcamp.pdf)
+- R Source Code (https://github.com/chadchae/ws_ba_bootcamp_2021/products/snabootcamp.R)
+- Presentation (https://github.com/chadchae/ws_ba_bootcamp_2021/products/snabootcamp.pdf)
 
