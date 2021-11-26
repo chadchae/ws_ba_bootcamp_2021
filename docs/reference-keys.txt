@@ -3,5 +3,8 @@ objective-and-introduction
 bootcamp-r-basic-social-network-analysis-and-dynamic-reporting-with-r
 program
 requirement
+assistants
+yuliana-yuejiu-zhang
+tony-jiongcheng-lu
 materials
 bootcamp-stata-database-introduction-data-analysis

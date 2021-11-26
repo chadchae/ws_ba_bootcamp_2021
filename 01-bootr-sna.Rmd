@@ -18,6 +18,27 @@ This bootcamp aims to introduce dynamic documentation in R and basics of social 
 ## Requirement
 - Personal Labtop
 
+## Assistants
+### Yuliana (Yuejiu Zhang)
+![](image/ta_yul.png)
+
+>Yuejiu Zhang is a junior accounting student of Wenzhou-Kean University. She also experienced the business competition on the campus and won the Third Prize of Wenzhou-Kean University First “social Dag Cup” management rights competition
+
+---
+
+### Tony (Jiongcheng Lu)
+![](image/ta_to.png)
+
+>Tony (Jiongcheng Lu) is a junior student major in Finance who takes a teaching assistant responsibility for MGS3001/Section1 Python Programming for Business in 2021, summer semester. Tony’s study concentrates on Data Analytics and Finance. Tony aims to apply data analytics techniques to in-depth analysis for a financial institution.
+
+---
+
+###Jason (Shiyu Jiang)
+
+![](image/ta_ja.png)
+
+> Shiyu Jiang (Jason) is a junior in computer science and technology. He takes a teaching assistant responsibility for MGS 3001 Python Programming for Business in 2021 Spring semester. Jason focuses mainly on data science and big data development. He has lead or took part in several research projects launched by professors in WKU and Chinese Academy of Science.
+
 ## Materials
 - [R Source Code](https://github.com/chadchae/ws_ba_bootcamp_2021/blob/master/products/snabootcamp.R)
 - [Presentation](https://github.com/chadchae/ws_ba_bootcamp_2021/blob/master/products/snabootcamp.pdf)
