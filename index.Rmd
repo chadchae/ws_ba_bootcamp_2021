@@ -1,0 +1,18 @@
+--- 
+title: "Wenzhou-Kean University Data Analysis Bootcamp Series"
+author: "Chungil Chae(Chad)"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+description: 
+link-citations: yes
+github-repo: "https://chadchae.github.io/ws_ba_bootcamp_2021/"
+---
+
+# About Bootcamp Series
+
+- Session1: 
+- Session2: 
+
+
+![](images/0.png){ width=600px }

@@ -1,0 +1,23 @@
+# Bootcamp R: Basic Social Network Analysis and Dynamic Reporting with R
+
+This bootcamp aims
+
+## Program
+- Session 1: Bootcamp R: Basic Social Network Analysis and Reporting with R
+- Saturday, November 27, Fall 2021
+    - 10:30-11:00 (CBPM A102): 
+        - Opening Speech  (Le Yang, Acting Library Director)
+    - 11:00-12:30 (CBPM A102): 
+        - Basics of R and Generating Report with R markdown
+    - 12:30-13:30: Lunch
+    - 13:30-16:00 (CBPM A102): 
+        - Basics of Social Network Analysis
+    - 16:00-16:30 (GEH A301): 
+        - Digital Scholarship Center Tour
+
+## Requirement
+about requirement
+
+## Materials
+
+## Resource
