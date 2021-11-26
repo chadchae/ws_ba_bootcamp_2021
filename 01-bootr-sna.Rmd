@@ -1,6 +1,6 @@
 # Bootcamp R: Basic Social Network Analysis and Dynamic Reporting with R
 
-This bootcamp aims to introduce dyanmic documentation in R and basics of social network analysis in R
+This bootcamp aims to introduce dynamic documentation in R and basics of social network analysis in R
 
 ## Program
 - Session 1: Bootcamp R: Basic Social Network Analysis and Reporting with R

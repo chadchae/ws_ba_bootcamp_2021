@@ -1,4 +1,5 @@
 about-bootcamp-series
+objective-and-introduction
 bootcamp-r-basic-social-network-analysis-and-dynamic-reporting-with-r
 program
 requirement
