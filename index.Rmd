@@ -12,7 +12,14 @@ github-repo: "https://chadchae.github.io/ws_ba_bootcamp_2021/"
 # About Bootcamp Series
 
 - Session1: 
-- Session2: 
+  - Bootcamp R: Basic Social Network Analysis and Dynamic Reporting with R
+  - CBPM A106
+  - Nov 27 (SAT)
+  - 10:30 AM
+- Session2: Bootcamp Stata: Database Introduction Data Analysis
+  - Location (TBA)
+  - Date (TBA)
+  - Time (TBA)
 
 
 ![](images/0.png){ width=600px }

@@ -3,5 +3,4 @@ bootcamp-r-basic-social-network-analysis-and-dynamic-reporting-with-r
 program
 requirement
 materials
-resource
 bootcamp-stata-database-introduction-data-analysis

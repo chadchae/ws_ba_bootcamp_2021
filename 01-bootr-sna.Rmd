@@ -1,6 +1,6 @@
 # Bootcamp R: Basic Social Network Analysis and Dynamic Reporting with R
 
-This bootcamp aims
+This bootcamp aims to introduce dyanmic documentation in R and basics of social network analysis in R
 
 ## Program
 - Session 1: Bootcamp R: Basic Social Network Analysis and Reporting with R
@@ -16,8 +16,9 @@ This bootcamp aims
         - Digital Scholarship Center Tour
 
 ## Requirement
-about requirement
+- Personal Labtop
 
 ## Materials
+- R Source Code (https://chadchae.github.io/ws_ba_bootcamp_2021/products/snabootcamp.R)
+- Presentation (https://chadchae.github.io/ws_ba_bootcamp_2021/products/snabootcamp.pdf)
 
-## Resource
