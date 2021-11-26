@@ -6,5 +6,6 @@ requirement
 assistants
 yuliana-yuejiu-zhang
 tony-jiongcheng-lu
+jason-shiyu-jiang
 materials
 bootcamp-stata-database-introduction-data-analysis

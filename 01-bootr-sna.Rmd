@@ -20,6 +20,7 @@ This bootcamp aims to introduce dynamic documentation in R and basics of social 
 
 ## Assistants
 ### Yuliana (Yuejiu Zhang)
+
 ![](image/ta_yul.png)
 
 >Yuejiu Zhang is a junior accounting student of Wenzhou-Kean University. She also experienced the business competition on the campus and won the Third Prize of Wenzhou-Kean University First “social Dag Cup” management rights competition
@@ -27,13 +28,14 @@ This bootcamp aims to introduce dynamic documentation in R and basics of social 
 ---
 
 ### Tony (Jiongcheng Lu)
+
 ![](image/ta_to.png)
 
 >Tony (Jiongcheng Lu) is a junior student major in Finance who takes a teaching assistant responsibility for MGS3001/Section1 Python Programming for Business in 2021, summer semester. Tony’s study concentrates on Data Analytics and Finance. Tony aims to apply data analytics techniques to in-depth analysis for a financial institution.
 
 ---
 
-###Jason (Shiyu Jiang)
+### Jason (Shiyu Jiang)
 
 ![](image/ta_ja.png)
 
