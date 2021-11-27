@@ -45,9 +45,9 @@ V(inet)$gender <- c('M','F','M','M','F','M','M')
 V(inet)$gender_color <- ifelse(V(inet)$gender == "F", "red", "blue")
 V(inet)$mj <- c("BA","MK","FN","CS","AC","FN","FN") 
 V(inet)$role <- c("IN","ST","TA","ST","TA","ST","ST") 
-V(inet)$dc <- degree(inet)
-V(inet)$bc <- round(betweenness(inet)/34, 2)
-V(inet)$cc <- round(closeness(inet),2)
+V(inet)$dc <- igraph::degree(inet)
+V(inet)$bc <- round(igraph::betweenness(inet)/34, 2)
+V(inet)$cc <- round(igraph::closeness(inet),2)
 
 ## Graph layout
 l<-layout.fruchterman.reingold(inet)
@@ -71,8 +71,8 @@ diameter(inet)
 get_diameter(inet)
 
 ## Component (how many graphs are unbreak in this network dataset )
-components(inet)$no
-components(inet)$csize
+igraph::components(inet)$no
+igraph::components(inet)$csize
 
 ## Clustering coefficient (How crumbly will this network be split?
 transitivity(inet, type="global")
@@ -84,7 +84,7 @@ average.path.length(inet, directed=F)
 # Individual Level
 
 ## Degree centrality
-degree(inet)
+igraph::degree(inet)
 plot(inet, 
      layout=l, 
      vertex.color= adjustcolor(V(inet)$gender_color, alpha.f = .5),
@@ -98,7 +98,7 @@ plot(inet,
      main="Degree Centraility")
 
 ## Betweenness centrality
-round(betweenness(inet)/34, 2)
+round(igraph::betweenness(inet)/34, 2)
 plot(inet, 
      layout=l, 
      vertex.color= adjustcolor(V(inet)$gender_color, alpha.f = .5),
@@ -112,7 +112,7 @@ plot(inet,
      main="Betweenness centrality")
 
 ## Closeness centrality
-round(closeness(inet),2)
+round(igraph::closeness(inet),2)
 plot(inet, 
      layout=l, 
      vertex.color= adjustcolor(V(inet)$gender_color, alpha.f = .5),
@@ -168,3 +168,4 @@ plot(inet,
 ## by connection
 c4 <- cluster_fast_greedy(inet)
 plot(c4, inet, vertex.color=membership(c4))
+
